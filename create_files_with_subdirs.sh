@@ -4,9 +4,6 @@ echo ""
 
 # --- Variables --- #
 
-mode_replace_msg="Script running in 'Replace' mode."
-mode_create_msg="Script running in 'Create' mode."
-
 # List of languages to put into the files
 languages=("Java" "C#" "C" "C++" "Python" "R" "MySQL" "JavaScript" "PHP" "Fortran")
 
